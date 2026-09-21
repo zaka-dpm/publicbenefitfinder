@@ -1195,6 +1195,11 @@ footer {
   border-color: var(--navy);
   color: white;
 }
+.flow-options button.true {
+  background: var(--navy);
+  border-color: var(--navy);
+  color: white;
+}
 .flow-options button span {
   height: 21px;
   width: 21px;
