@@ -2097,6 +2097,8 @@ footer {
     border-bottom: 3px solid var(--navy);
   }
   .hero-grid {
+    grid-template-columns: 1fr;
+    gap: 45px;
     align-items: start;
   }
 }
